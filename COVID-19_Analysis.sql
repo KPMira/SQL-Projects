@@ -1,6 +1,8 @@
 ---This COVID-19 SQL Analytics project will contribute to a better understanding of the pandemic's dynamics by shedding light on mortality, infection rates, population correlations, vaccination trends, and global statistics. ---
 /* Skills used: 
 		Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types*/
+/* You can view an interactive Tableau visualization of this SQL project by following this link: https://public.tableau.com/app/profile/kimberly.mira/vizzes */
+
 
 ---Data Overview---
 SELECT *
