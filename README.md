@@ -1,5 +1,5 @@
 # Welcome to my SQL Repository! 
-This repository showcases a variety of SQL projects, covering essential techniques like joins, CTEs, temporary tables, window functions, aggregate functions, view creation, and data type conversions. 
+This repository showcases a variety of SQL projects, covering essential techniques like joins, CTEs, temporary tables, window functions, aggregate functions, view creation, and data type conversions. All the data used in my projects are from kaggle.com.
 
 You can explore a Tableau visualization of the SQL projects at: https://public.tableau.com/app/profile/kimberly.mira/vizzes
 
